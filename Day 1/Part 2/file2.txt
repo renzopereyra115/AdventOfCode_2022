@@ -1,0 +1,1080 @@
+Elf #1 Total Calories: 56267
+Largest 1: 56267
+Largest 2: 0
+Largest 3: 0
+Elf #2 Total Calories: 50143
+Largest 1: 56267
+Largest 2: 50143
+Largest 3: 0
+Elf #3 Total Calories: 47308
+Largest 1: 56267
+Largest 2: 50143
+Largest 3: 47308
+Elf #4 Total Calories: 64230
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 50143
+Elf #5 Total Calories: 47238
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 50143
+Elf #6 Total Calories: 51084
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 51084
+Elf #7 Total Calories: 43075
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 51084
+Elf #8 Total Calories: 55682
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 55682
+Elf #9 Total Calories: 43784
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 55682
+Elf #10 Total Calories: 46694
+Largest 1: 64230
+Largest 2: 56267
+Largest 3: 55682
+Elf #11 Total Calories: 60678
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #12 Total Calories: 47329
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #13 Total Calories: 45405
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #14 Total Calories: 41742
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #15 Total Calories: 49790
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #16 Total Calories: 51063
+Largest 1: 64230
+Largest 2: 60678
+Largest 3: 56267
+Elf #17 Total Calories: 61743
+Largest 1: 64230
+Largest 2: 61743
+Largest 3: 60678
+Elf #18 Total Calories: 54132
+Largest 1: 64230
+Largest 2: 61743
+Largest 3: 60678
+Elf #19 Total Calories: 61956
+Largest 1: 64230
+Largest 2: 61956
+Largest 3: 61743
+Elf #20 Total Calories: 42269
+Largest 1: 64230
+Largest 2: 61956
+Largest 3: 61743
+Elf #21 Total Calories: 35342
+Largest 1: 64230
+Largest 2: 61956
+Largest 3: 61743
+Elf #22 Total Calories: 70116
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #23 Total Calories: 56939
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #24 Total Calories: 16174
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #25 Total Calories: 57589
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #26 Total Calories: 42929
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #27 Total Calories: 38731
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #28 Total Calories: 51613
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #29 Total Calories: 53324
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #30 Total Calories: 60097
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #31 Total Calories: 40524
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #32 Total Calories: 40486
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #33 Total Calories: 52251
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #34 Total Calories: 42975
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #35 Total Calories: 56445
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #36 Total Calories: 47741
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #37 Total Calories: 53691
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #38 Total Calories: 16399
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 61956
+Elf #39 Total Calories: 63718
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #40 Total Calories: 31972
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #41 Total Calories: 48969
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #42 Total Calories: 52444
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #43 Total Calories: 58268
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #44 Total Calories: 36314
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #45 Total Calories: 48438
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #46 Total Calories: 50430
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #47 Total Calories: 1192
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #48 Total Calories: 42002
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #49 Total Calories: 48661
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #50 Total Calories: 43067
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #51 Total Calories: 49541
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #52 Total Calories: 58988
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #53 Total Calories: 51694
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #54 Total Calories: 33478
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #55 Total Calories: 16032
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #56 Total Calories: 37769
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #57 Total Calories: 37031
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #58 Total Calories: 24044
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #59 Total Calories: 29786
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #60 Total Calories: 51733
+Largest 1: 70116
+Largest 2: 64230
+Largest 3: 63718
+Elf #61 Total Calories: 66882
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #62 Total Calories: 58421
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #63 Total Calories: 59614
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #64 Total Calories: 45688
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #65 Total Calories: 29868
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #66 Total Calories: 35915
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #67 Total Calories: 37129
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #68 Total Calories: 51675
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #69 Total Calories: 41110
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #70 Total Calories: 59202
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #71 Total Calories: 52988
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #72 Total Calories: 63013
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #73 Total Calories: 43497
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #74 Total Calories: 55370
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #75 Total Calories: 50547
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #76 Total Calories: 30802
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #77 Total Calories: 52021
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #78 Total Calories: 43745
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64230
+Elf #79 Total Calories: 64325
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #80 Total Calories: 49051
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #81 Total Calories: 44003
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #82 Total Calories: 4409
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #83 Total Calories: 13565
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #84 Total Calories: 52023
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #85 Total Calories: 42599
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #86 Total Calories: 41861
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #87 Total Calories: 32120
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #88 Total Calories: 51729
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #89 Total Calories: 35275
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #90 Total Calories: 37910
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #91 Total Calories: 59854
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #92 Total Calories: 50670
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #93 Total Calories: 42258
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #94 Total Calories: 53319
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #95 Total Calories: 49183
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #96 Total Calories: 54861
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #97 Total Calories: 54339
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #98 Total Calories: 40265
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #99 Total Calories: 60541
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #100 Total Calories: 54184
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #101 Total Calories: 38868
+Largest 1: 70116
+Largest 2: 66882
+Largest 3: 64325
+Elf #102 Total Calories: 67516
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #103 Total Calories: 49939
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #104 Total Calories: 45270
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #105 Total Calories: 35320
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #106 Total Calories: 46809
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #107 Total Calories: 48210
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #108 Total Calories: 41241
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #109 Total Calories: 27906
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #110 Total Calories: 35780
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #111 Total Calories: 27241
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #112 Total Calories: 50596
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #113 Total Calories: 17410
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #114 Total Calories: 51609
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #115 Total Calories: 17143
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #116 Total Calories: 58796
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #117 Total Calories: 53321
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #118 Total Calories: 30107
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #119 Total Calories: 50400
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #120 Total Calories: 54154
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #121 Total Calories: 48092
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #122 Total Calories: 59751
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #123 Total Calories: 54258
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #124 Total Calories: 42048
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #125 Total Calories: 49555
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #126 Total Calories: 46412
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #127 Total Calories: 19606
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #128 Total Calories: 53914
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #129 Total Calories: 47352
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #130 Total Calories: 40700
+Largest 1: 70116
+Largest 2: 67516
+Largest 3: 66882
+Elf #131 Total Calories: 67760
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #132 Total Calories: 12989
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #133 Total Calories: 42519
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #134 Total Calories: 17287
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #135 Total Calories: 47991
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #136 Total Calories: 52915
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #137 Total Calories: 42975
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #138 Total Calories: 56347
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #139 Total Calories: 47442
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #140 Total Calories: 42914
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #141 Total Calories: 50181
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #142 Total Calories: 36059
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #143 Total Calories: 22468
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #144 Total Calories: 47440
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #145 Total Calories: 58271
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #146 Total Calories: 52238
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #147 Total Calories: 56443
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #148 Total Calories: 50381
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #149 Total Calories: 65713
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #150 Total Calories: 36101
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #151 Total Calories: 60730
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #152 Total Calories: 61546
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #153 Total Calories: 39934
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #154 Total Calories: 49994
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #155 Total Calories: 46324
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #156 Total Calories: 30858
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #157 Total Calories: 58384
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #158 Total Calories: 61445
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #159 Total Calories: 53517
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #160 Total Calories: 51450
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #161 Total Calories: 60526
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #162 Total Calories: 37113
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #163 Total Calories: 43375
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #164 Total Calories: 53955
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #165 Total Calories: 58768
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #166 Total Calories: 22583
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #167 Total Calories: 50272
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #168 Total Calories: 37850
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #169 Total Calories: 35803
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #170 Total Calories: 58521
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #171 Total Calories: 48342
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #172 Total Calories: 43099
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #173 Total Calories: 35349
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #174 Total Calories: 58050
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #175 Total Calories: 64941
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #176 Total Calories: 53902
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #177 Total Calories: 41300
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #178 Total Calories: 9009
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #179 Total Calories: 22541
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #180 Total Calories: 48581
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #181 Total Calories: 46551
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #182 Total Calories: 61861
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #183 Total Calories: 50520
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #184 Total Calories: 54959
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #185 Total Calories: 58185
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #186 Total Calories: 22707
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #187 Total Calories: 43163
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #188 Total Calories: 57367
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #189 Total Calories: 53348
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #190 Total Calories: 51914
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #191 Total Calories: 41146
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #192 Total Calories: 15663
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #193 Total Calories: 57417
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #194 Total Calories: 26454
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #195 Total Calories: 49222
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #196 Total Calories: 50293
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #197 Total Calories: 49352
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #198 Total Calories: 38204
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #199 Total Calories: 46224
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #200 Total Calories: 45645
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #201 Total Calories: 57457
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #202 Total Calories: 41656
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #203 Total Calories: 50158
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #204 Total Calories: 35399
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #205 Total Calories: 54827
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #206 Total Calories: 23390
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #207 Total Calories: 63212
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #208 Total Calories: 32186
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #209 Total Calories: 43041
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #210 Total Calories: 33924
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #211 Total Calories: 52458
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #212 Total Calories: 40436
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #213 Total Calories: 41845
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #214 Total Calories: 10014
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #215 Total Calories: 53754
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #216 Total Calories: 39274
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #217 Total Calories: 51625
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #218 Total Calories: 45299
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #219 Total Calories: 47279
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #220 Total Calories: 47854
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #221 Total Calories: 29333
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #222 Total Calories: 45503
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #223 Total Calories: 53752
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #224 Total Calories: 54978
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #225 Total Calories: 45144
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #226 Total Calories: 59087
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #227 Total Calories: 34225
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #228 Total Calories: 6997
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #229 Total Calories: 41438
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #230 Total Calories: 52803
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #231 Total Calories: 47653
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #232 Total Calories: 39339
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #233 Total Calories: 41226
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #234 Total Calories: 38253
+Largest 1: 70116
+Largest 2: 67760
+Largest 3: 67516
+Elf #235 Total Calories: 68706
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #236 Total Calories: 38884
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #237 Total Calories: 50245
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #238 Total Calories: 43058
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #239 Total Calories: 65622
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #240 Total Calories: 56268
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #241 Total Calories: 44312
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #242 Total Calories: 49667
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #243 Total Calories: 44942
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #244 Total Calories: 45985
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #245 Total Calories: 56707
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #246 Total Calories: 53218
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #247 Total Calories: 39919
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #248 Total Calories: 53082
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #249 Total Calories: 60579
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #250 Total Calories: 55676
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #251 Total Calories: 13769
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #252 Total Calories: 57455
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #253 Total Calories: 56813
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #254 Total Calories: 43895
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #255 Total Calories: 47835
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #256 Total Calories: 39605
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #257 Total Calories: 38602
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #258 Total Calories: 34832
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #259 Total Calories: 52279
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #260 Total Calories: 50982
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #261 Total Calories: 56413
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #262 Total Calories: 53182
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #263 Total Calories: 37600
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #264 Total Calories: 34560
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #265 Total Calories: 46460
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #266 Total Calories: 51750
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #267 Total Calories: 52289
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+Elf #268 Total Calories: 59489
+Largest 1: 70116
+Largest 2: 68706
+Largest 3: 67760
+
+TOP 3 Elves Carrying the Most Calories:
+1. Elf #22 - 70116 Calories
+2. Elf #235 - 68706 Calories
+3. Elf #79 - 67760 Calories
+
+Sum of Top 3 Elves' Calories: 206582 Calories
+

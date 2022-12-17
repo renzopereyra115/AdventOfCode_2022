@@ -1,0 +1,12504 @@
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Z
+This is enemy case C
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Y
+This is enemy case A
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: Y
+This is enemy case C
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: C
+Array 1:  
+Array 2: X
+This is enemy case C
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: A
+Array 1:  
+Array 2: X
+This is enemy case A
+This is user case X
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: X
+This is enemy case B
+This is user case X
+Array 0: B
+Array 1:  
+Array 2: Z
+This is enemy case B
+This is user case Z
+Array 0: B
+Array 1:  
+Array 2: Y
+This is enemy case B
+This is user case Y
+Array 0: A
+Array 1:  
+Array 2: Z
+This is enemy case A
+This is user case Z
+SKIPPED!
+Total User Points: 11717
+Total Opponent Points: 12500
+Your opponent won!
