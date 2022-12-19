@@ -26,8 +26,8 @@ int main()
 	int paper = 2; //opponent='b', player='y'
 	int scissors = 3; //opponent='c', player='z'
 
-	int roundDraw = 0;
-	int roundLoss = 3;
+	int roundDraw = 3;
+	int roundLoss = 0;
 	int roundWin = 6;
 
 	//scorekeeping
@@ -62,14 +62,16 @@ int main()
 					case 'A': //Opponent Rock
 					{ 
 						opponent += rock;
-						out << "This is enemy case A" << endl;
 						switch(hand[2])
 						{
 							case 'X': //User Rock
 							{
 								user += rock;
 								user += roundDraw; //equals zero, but here for convenience
-								out << "This is user case X" << endl;
+								opponent += roundDraw;
+								out << "IT'S A DRAW" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Y': //User Paper
@@ -77,7 +79,9 @@ int main()
 								user += paper;
 								user += roundWin;
 								opponent += roundLoss;
-								out << "This is user case Y" << endl;
+								out << "USER WINS" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Z': //User Scissors
@@ -85,7 +89,9 @@ int main()
 								user += scissors;
 								user += roundLoss;
 								opponent += roundWin;
-								out << "This is user case Z" << endl;
+								out << "USER LOSES" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							default: 
@@ -99,7 +105,6 @@ int main()
 					case 'B': //Opponent Paper
 					{
 						opponent += paper;
-						out << "This is enemy case B" << endl;
 						switch(hand[2])
 						{
 							case 'X': //User Rock
@@ -107,14 +112,19 @@ int main()
 								user += rock;
 								user += roundLoss;
 								opponent += roundWin;
-								out << "This is user case X" << endl;
+								out << "USER LOSES" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Y': //User Paper
 							{
 								user += paper; 
 								user += roundDraw; //equals zero, but here for convenience
-								out << "This is user case Y" << endl;
+								opponent += roundDraw;
+								out << "IT'S A DRAW" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Z': //User Scissors
@@ -122,7 +132,9 @@ int main()
 								user += scissors;
 								user += roundWin;
 								opponent += roundLoss;
-								out << "This is user case Z" << endl;
+								out << "USER WINS" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							default: 
@@ -136,7 +148,6 @@ int main()
 					case 'C': //Opponent Scissors
 					{
 						opponent += scissors;
-						out << "This is enemy case C" << endl;
 						switch(hand[2])
 						{
 							case 'X': //User Rock
@@ -144,7 +155,9 @@ int main()
 								user += rock;
 								user += roundWin;
 								opponent += roundLoss;
-								out << "This is user case X" << endl;
+								out << "USER WINS" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Y': //User Paper
@@ -152,14 +165,19 @@ int main()
 								user += paper;
 								user += roundLoss;
 								opponent += roundWin;
-								out << "This is user case Y" << endl;
+								out << "USER LOSES" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							case 'Z': //User Scissors
 							{
 								user += scissors;
 								user += roundDraw; //equals zero, but here for convenience
-								out << "This is user case Z" << endl;
+								opponent += roundDraw; 
+								out << "IT'S A DRAW" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
 								break;
 							}
 							default: 
@@ -195,4 +213,4 @@ int main()
 		}
 	}
 	return 0;
-}
+} 
