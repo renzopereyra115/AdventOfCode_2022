@@ -79,7 +79,7 @@ int main()
 								user += rock;
 								user += roundDraw; //equals zero, but here for convenience
 								opponent += roundDraw;
-								out << "USER WINS" << endl;
+								out << "IT'S A DRAW" << endl;
 								out << "U: " << user << endl; 
 								out << "O: " << opponent << endl;
 								break;
@@ -89,7 +89,7 @@ int main()
 								user += paper;
 								user += roundWin;
 								opponent += roundLoss;
-								out << "USER LOSES" << endl;
+								out << "USER WINS" << endl;
 								out << "U: " << user << endl; 
 								out << "O: " << opponent << endl;
 								break;
@@ -107,7 +107,7 @@ int main()
 						opponent += paper;
 						switch(hand[2])
 						{
-							case 'X': //User Rock
+							case 'X': //User Needs to Lose
 							{
 								user += rock;
 								user += roundLoss;
@@ -117,7 +117,7 @@ int main()
 								out << "O: " << opponent << endl;
 								break;
 							}
-							case 'Y': //User Paper
+							case 'Y': //User & Opponent Draw
 							{
 								user += paper; 
 								user += roundDraw; //equals zero, but here for convenience
@@ -127,7 +127,7 @@ int main()
 								out << "O: " << opponent << endl;
 								break;
 							}
-							case 'Z': //User Scissors
+							case 'Z': //User Wins
 							{
 								user += scissors;
 								user += roundWin;
@@ -150,17 +150,7 @@ int main()
 						opponent += scissors;
 						switch(hand[2])
 						{
-							case 'X': //User Rock
-							{
-								user += rock;
-								user += roundWin;
-								opponent += roundLoss;
-								out << "USER WINS" << endl;
-								out << "U: " << user << endl; 
-								out << "O: " << opponent << endl;
-								break;
-							}
-							case 'Y': //User Paper
+							case 'X': //User Needs to Lose
 							{
 								user += paper;
 								user += roundLoss;
@@ -170,12 +160,22 @@ int main()
 								out << "O: " << opponent << endl;
 								break;
 							}
-							case 'Z': //User Scissors
+							case 'Y': //User & Opponent Draw
 							{
 								user += scissors;
 								user += roundDraw; //equals zero, but here for convenience
 								opponent += roundDraw; 
 								out << "IT'S A DRAW" << endl;
+								out << "U: " << user << endl; 
+								out << "O: " << opponent << endl;
+								break;
+							}
+							case 'Z': //User Wins
+							{
+								user += rock;
+								user += roundWin;
+								opponent += roundLoss;
+								out << "USER WINS" << endl;
 								out << "U: " << user << endl; 
 								out << "O: " << opponent << endl;
 								break;

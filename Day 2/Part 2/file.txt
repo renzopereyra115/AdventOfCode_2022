@@ -1,0 +1,15004 @@
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5
+O: 5
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 13
+O: 6
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 21
+O: 7
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 28
+O: 10
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 33
+O: 15
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 38
+O: 20
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 39
+O: 28
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 48
+O: 30
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 55
+O: 33
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 56
+O: 41
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 61
+O: 46
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 69
+O: 47
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 74
+O: 52
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 83
+O: 54
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 88
+O: 59
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 95
+O: 62
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 104
+O: 64
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 109
+O: 69
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 118
+O: 71
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 124
+O: 77
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 129
+O: 82
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 137
+O: 83
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 142
+O: 88
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 147
+O: 93
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 152
+O: 98
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 158
+O: 104
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 166
+O: 105
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 171
+O: 110
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 172
+O: 118
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 180
+O: 119
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 181
+O: 127
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 189
+O: 128
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 197
+O: 129
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 202
+O: 134
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 207
+O: 139
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 208
+O: 147
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 216
+O: 148
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 221
+O: 153
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 230
+O: 155
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 232
+O: 164
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 234
+O: 173
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 239
+O: 178
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 244
+O: 183
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 245
+O: 191
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 246
+O: 199
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 248
+O: 208
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 249
+O: 216
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 257
+O: 217
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 262
+O: 222
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 267
+O: 227
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 269
+O: 236
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 277
+O: 237
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 282
+O: 242
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 291
+O: 244
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 292
+O: 252
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 293
+O: 260
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 301
+O: 261
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 304
+O: 268
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 309
+O: 273
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 314
+O: 278
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 323
+O: 280
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 330
+O: 283
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 339
+O: 285
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 348
+O: 287
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 357
+O: 289
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 365
+O: 290
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 373
+O: 291
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 374
+O: 299
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 375
+O: 307
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 380
+O: 312
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 381
+O: 320
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 382
+O: 328
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 389
+O: 331
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 396
+O: 334
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 404
+O: 335
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 408
+O: 339
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 416
+O: 340
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 425
+O: 342
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 433
+O: 343
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 438
+O: 348
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 440
+O: 357
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 441
+O: 365
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 443
+O: 374
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 452
+O: 376
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 461
+O: 378
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 468
+O: 381
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 477
+O: 383
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 478
+O: 391
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 480
+O: 400
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 488
+O: 401
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 490
+O: 410
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 499
+O: 412
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 503
+O: 416
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 510
+O: 419
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 515
+O: 424
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 521
+O: 430
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 522
+O: 438
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 525
+O: 445
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 530
+O: 450
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 531
+O: 458
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 532
+O: 466
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 541
+O: 468
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 546
+O: 473
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 554
+O: 474
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 563
+O: 476
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 568
+O: 481
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 573
+O: 486
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 576
+O: 493
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 584
+O: 494
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 585
+O: 502
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 586
+O: 510
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 587
+O: 518
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 588
+O: 526
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 597
+O: 528
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 606
+O: 530
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 611
+O: 535
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 613
+O: 544
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 621
+O: 545
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 629
+O: 546
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 634
+O: 551
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 643
+O: 553
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 648
+O: 558
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 656
+O: 559
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 665
+O: 561
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 673
+O: 562
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 681
+O: 563
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 683
+O: 572
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 692
+O: 574
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 700
+O: 575
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 708
+O: 576
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 713
+O: 581
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 722
+O: 583
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 730
+O: 584
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 735
+O: 589
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 740
+O: 594
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 748
+O: 595
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 753
+O: 600
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 755
+O: 609
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 764
+O: 611
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 769
+O: 616
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 770
+O: 624
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 772
+O: 633
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 773
+O: 641
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 774
+O: 649
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 775
+O: 657
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 783
+O: 658
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 791
+O: 659
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 797
+O: 665
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 805
+O: 666
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 810
+O: 671
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 818
+O: 672
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 820
+O: 681
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 829
+O: 683
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 838
+O: 685
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 840
+O: 694
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 845
+O: 699
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 847
+O: 708
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 848
+O: 716
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 849
+O: 724
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 851
+O: 733
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 859
+O: 734
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 864
+O: 739
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 866
+O: 748
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 867
+O: 756
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 872
+O: 761
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 880
+O: 762
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 885
+O: 767
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 890
+O: 772
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 892
+O: 781
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 897
+O: 786
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 899
+O: 795
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 907
+O: 796
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 915
+O: 797
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 923
+O: 798
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 928
+O: 803
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 933
+O: 808
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 936
+O: 815
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 944
+O: 816
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 952
+O: 817
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 957
+O: 822
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 959
+O: 831
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 965
+O: 837
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 970
+O: 842
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 972
+O: 851
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 980
+O: 852
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 981
+O: 860
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 989
+O: 861
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 997
+O: 862
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 999
+O: 871
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1004
+O: 876
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1012
+O: 877
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1017
+O: 882
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1019
+O: 891
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1027
+O: 892
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1028
+O: 900
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1033
+O: 905
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1041
+O: 906
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1046
+O: 911
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1047
+O: 919
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1048
+O: 927
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1050
+O: 936
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1055
+O: 941
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1061
+O: 947
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1069
+O: 948
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1074
+O: 953
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1079
+O: 958
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1085
+O: 964
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1090
+O: 969
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1096
+O: 975
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1098
+O: 984
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1102
+O: 988
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1106
+O: 992
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1115
+O: 994
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1120
+O: 999
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1128
+O: 1000
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1137
+O: 1002
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1138
+O: 1010
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1139
+O: 1018
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1144
+O: 1023
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1152
+O: 1024
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1157
+O: 1029
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1158
+O: 1037
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1163
+O: 1042
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1168
+O: 1047
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1175
+O: 1050
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1180
+O: 1055
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1185
+O: 1060
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1193
+O: 1061
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1201
+O: 1062
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1210
+O: 1064
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1214
+O: 1068
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1216
+O: 1077
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1221
+O: 1082
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1226
+O: 1087
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1235
+O: 1089
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1244
+O: 1091
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1249
+O: 1096
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1251
+O: 1105
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1256
+O: 1110
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1257
+O: 1118
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1266
+O: 1120
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1271
+O: 1125
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1272
+O: 1133
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1277
+O: 1138
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1284
+O: 1141
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1289
+O: 1146
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1290
+O: 1154
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1298
+O: 1155
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1307
+O: 1157
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1316
+O: 1159
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1324
+O: 1160
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1326
+O: 1169
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1331
+O: 1174
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1338
+O: 1177
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1346
+O: 1178
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1351
+O: 1183
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1358
+O: 1186
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1363
+O: 1191
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1364
+O: 1199
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1369
+O: 1204
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1370
+O: 1212
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1377
+O: 1215
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1386
+O: 1217
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1394
+O: 1218
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1402
+O: 1219
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1410
+O: 1220
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1413
+O: 1227
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1422
+O: 1229
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1427
+O: 1234
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1428
+O: 1242
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1433
+O: 1247
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1441
+O: 1248
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1450
+O: 1250
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1457
+O: 1253
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1458
+O: 1261
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1467
+O: 1263
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1476
+O: 1265
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1484
+O: 1266
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1489
+O: 1271
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1490
+O: 1279
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1498
+O: 1280
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1506
+O: 1281
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1511
+O: 1286
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1512
+O: 1294
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1520
+O: 1295
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1528
+O: 1296
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1535
+O: 1299
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1543
+O: 1300
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1550
+O: 1303
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1555
+O: 1308
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1560
+O: 1313
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1569
+O: 1315
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1571
+O: 1324
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1579
+O: 1325
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1580
+O: 1333
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1585
+O: 1338
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1586
+O: 1346
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1591
+O: 1351
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1596
+O: 1356
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1597
+O: 1364
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1606
+O: 1366
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1607
+O: 1374
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1614
+O: 1377
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1616
+O: 1386
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1618
+O: 1395
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1626
+O: 1396
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1634
+O: 1397
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1635
+O: 1405
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1636
+O: 1413
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1640
+O: 1417
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1642
+O: 1426
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1647
+O: 1431
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1651
+O: 1435
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1660
+O: 1437
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1661
+O: 1445
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1669
+O: 1446
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1670
+O: 1454
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1675
+O: 1459
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1680
+O: 1464
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1685
+O: 1469
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1690
+O: 1474
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1698
+O: 1475
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1706
+O: 1476
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1711
+O: 1481
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1712
+O: 1489
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1719
+O: 1492
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1728
+O: 1494
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1730
+O: 1503
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1739
+O: 1505
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1744
+O: 1510
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1746
+O: 1519
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1754
+O: 1520
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1759
+O: 1525
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1767
+O: 1526
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1775
+O: 1527
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1784
+O: 1529
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1789
+O: 1534
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1790
+O: 1542
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1798
+O: 1543
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1799
+O: 1551
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1804
+O: 1556
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1812
+O: 1557
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1821
+O: 1559
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1822
+O: 1567
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1823
+O: 1575
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1831
+O: 1576
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1837
+O: 1582
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1838
+O: 1590
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1846
+O: 1591
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1847
+O: 1599
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1852
+O: 1604
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1854
+O: 1613
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1859
+O: 1618
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1866
+O: 1621
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1868
+O: 1630
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1873
+O: 1635
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1878
+O: 1640
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1883
+O: 1645
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1884
+O: 1653
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1889
+O: 1658
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1890
+O: 1666
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1894
+O: 1670
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1902
+O: 1671
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1911
+O: 1673
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1916
+O: 1678
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1917
+O: 1686
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1926
+O: 1688
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1931
+O: 1693
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1938
+O: 1696
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 1943
+O: 1701
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1951
+O: 1702
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1952
+O: 1710
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1960
+O: 1711
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1962
+O: 1720
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1965
+O: 1727
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1974
+O: 1729
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1983
+O: 1731
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1985
+O: 1740
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 1993
+O: 1741
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 1994
+O: 1749
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2002
+O: 1750
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2010
+O: 1751
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2019
+O: 1753
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2027
+O: 1754
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2032
+O: 1759
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2041
+O: 1761
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2048
+O: 1764
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2052
+O: 1768
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2060
+O: 1769
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2068
+O: 1770
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2076
+O: 1771
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2078
+O: 1780
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2087
+O: 1782
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2096
+O: 1784
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2101
+O: 1789
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2102
+O: 1797
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2107
+O: 1802
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2112
+O: 1807
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2117
+O: 1812
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2126
+O: 1814
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2131
+O: 1819
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2136
+O: 1824
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2144
+O: 1825
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2153
+O: 1827
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2161
+O: 1828
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2163
+O: 1837
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2168
+O: 1842
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2169
+O: 1850
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2174
+O: 1855
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2175
+O: 1863
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2180
+O: 1868
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2185
+O: 1873
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2187
+O: 1882
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2192
+O: 1887
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2197
+O: 1892
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2206
+O: 1894
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2211
+O: 1899
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2213
+O: 1908
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2218
+O: 1913
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2219
+O: 1921
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2224
+O: 1926
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2226
+O: 1935
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2229
+O: 1942
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2237
+O: 1943
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2244
+O: 1946
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2249
+O: 1951
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2256
+O: 1954
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2257
+O: 1962
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2264
+O: 1965
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2266
+O: 1974
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2273
+O: 1977
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2278
+O: 1982
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2283
+O: 1987
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2285
+O: 1996
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2287
+O: 2005
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2292
+O: 2010
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2294
+O: 2019
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2298
+O: 2023
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2303
+O: 2028
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2304
+O: 2036
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2305
+O: 2044
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2314
+O: 2046
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2319
+O: 2051
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2325
+O: 2057
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2327
+O: 2066
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2328
+O: 2074
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2333
+O: 2079
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2342
+O: 2081
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2343
+O: 2089
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2352
+O: 2091
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2361
+O: 2093
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2363
+O: 2102
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2364
+O: 2110
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2369
+O: 2115
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2378
+O: 2117
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2379
+O: 2125
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2386
+O: 2128
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2390
+O: 2132
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2395
+O: 2137
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2400
+O: 2142
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2405
+O: 2147
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2409
+O: 2151
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2415
+O: 2157
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2420
+O: 2162
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2429
+O: 2164
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2438
+O: 2166
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2443
+O: 2171
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2448
+O: 2176
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2457
+O: 2178
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2458
+O: 2186
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2459
+O: 2194
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2464
+O: 2199
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2472
+O: 2200
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2478
+O: 2206
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2485
+O: 2209
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2490
+O: 2214
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2491
+O: 2222
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2496
+O: 2227
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2501
+O: 2232
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2503
+O: 2241
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2508
+O: 2246
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2510
+O: 2255
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2518
+O: 2256
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2519
+O: 2264
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2521
+O: 2273
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2528
+O: 2276
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2536
+O: 2277
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2544
+O: 2278
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2549
+O: 2283
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2551
+O: 2292
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2559
+O: 2293
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2567
+O: 2294
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2572
+O: 2299
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2576
+O: 2303
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2581
+O: 2308
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2589
+O: 2309
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2597
+O: 2310
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2598
+O: 2318
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2600
+O: 2327
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2608
+O: 2328
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2609
+O: 2336
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2618
+O: 2338
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2626
+O: 2339
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2634
+O: 2340
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2635
+O: 2348
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2640
+O: 2353
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2641
+O: 2361
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2650
+O: 2363
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2655
+O: 2368
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2660
+O: 2373
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2669
+O: 2375
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2671
+O: 2384
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2673
+O: 2393
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2678
+O: 2398
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2686
+O: 2399
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2687
+O: 2407
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2688
+O: 2415
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2693
+O: 2420
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2702
+O: 2422
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2707
+O: 2427
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2708
+O: 2435
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2717
+O: 2437
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2718
+O: 2445
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2723
+O: 2450
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2725
+O: 2459
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2730
+O: 2464
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2735
+O: 2469
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2741
+O: 2475
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2749
+O: 2476
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2754
+O: 2481
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2755
+O: 2489
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2760
+O: 2494
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2768
+O: 2495
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2770
+O: 2504
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2778
+O: 2505
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2781
+O: 2512
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2790
+O: 2514
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2791
+O: 2522
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2799
+O: 2523
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2804
+O: 2528
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2805
+O: 2536
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2806
+O: 2544
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2814
+O: 2545
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2819
+O: 2550
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2827
+O: 2551
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2836
+O: 2553
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2841
+O: 2558
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2849
+O: 2559
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2854
+O: 2564
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2859
+O: 2569
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2867
+O: 2570
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2876
+O: 2572
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2883
+O: 2575
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2888
+O: 2580
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2893
+O: 2585
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2899
+O: 2591
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2907
+O: 2592
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2912
+O: 2597
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2917
+O: 2602
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2922
+O: 2607
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2927
+O: 2612
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2936
+O: 2614
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2941
+O: 2619
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2946
+O: 2624
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2951
+O: 2629
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2953
+O: 2638
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2962
+O: 2640
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2963
+O: 2648
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2971
+O: 2649
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 2980
+O: 2651
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 2982
+O: 2660
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2987
+O: 2665
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 2992
+O: 2670
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3000
+O: 2671
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3005
+O: 2676
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3006
+O: 2684
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3014
+O: 2685
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3022
+O: 2686
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3029
+O: 2689
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3030
+O: 2697
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3031
+O: 2705
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3036
+O: 2710
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3045
+O: 2712
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3054
+O: 2714
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3063
+O: 2716
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3068
+O: 2721
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3073
+O: 2726
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3078
+O: 2731
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3083
+O: 2736
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3092
+O: 2738
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3097
+O: 2743
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3105
+O: 2744
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3109
+O: 2748
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3117
+O: 2749
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3122
+O: 2754
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3127
+O: 2759
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3135
+O: 2760
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3136
+O: 2768
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3141
+O: 2773
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3149
+O: 2774
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3156
+O: 2777
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3165
+O: 2779
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3174
+O: 2781
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3179
+O: 2786
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3187
+O: 2787
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3195
+O: 2788
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3200
+O: 2793
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3201
+O: 2801
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3210
+O: 2803
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3211
+O: 2811
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3216
+O: 2816
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3221
+O: 2821
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3222
+O: 2829
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3224
+O: 2838
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3233
+O: 2840
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3234
+O: 2848
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3242
+O: 2849
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3247
+O: 2854
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3254
+O: 2857
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3255
+O: 2865
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3263
+O: 2866
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3270
+O: 2869
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3277
+O: 2872
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3285
+O: 2873
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3290
+O: 2878
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3295
+O: 2883
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3299
+O: 2887
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3304
+O: 2892
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3311
+O: 2895
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3312
+O: 2903
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3314
+O: 2912
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3319
+O: 2917
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3320
+O: 2925
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3329
+O: 2927
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3334
+O: 2932
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3343
+O: 2934
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3348
+O: 2939
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3353
+O: 2944
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3361
+O: 2945
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3362
+O: 2953
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3363
+O: 2961
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3367
+O: 2965
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3376
+O: 2967
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3377
+O: 2975
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3386
+O: 2977
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3390
+O: 2981
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3399
+O: 2983
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3401
+O: 2992
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3402
+O: 3000
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3403
+O: 3008
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3412
+O: 3010
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3413
+O: 3018
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3419
+O: 3024
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3424
+O: 3029
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3426
+O: 3038
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3428
+O: 3047
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3437
+O: 3049
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3438
+O: 3057
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3445
+O: 3060
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3454
+O: 3062
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3462
+O: 3063
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3468
+O: 3069
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3473
+O: 3074
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3478
+O: 3079
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3479
+O: 3087
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3488
+O: 3089
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3493
+O: 3094
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3498
+O: 3099
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3499
+O: 3107
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3501
+O: 3116
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3506
+O: 3121
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3511
+O: 3126
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3517
+O: 3132
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3526
+O: 3134
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3528
+O: 3143
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3536
+O: 3144
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3537
+O: 3152
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3538
+O: 3160
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3547
+O: 3162
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3548
+O: 3170
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3553
+O: 3175
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3561
+O: 3176
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3570
+O: 3178
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3571
+O: 3186
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3579
+O: 3187
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3584
+O: 3192
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3586
+O: 3201
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3590
+O: 3205
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3598
+O: 3206
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3600
+O: 3215
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3601
+O: 3223
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3610
+O: 3225
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3611
+O: 3233
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3613
+O: 3242
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3621
+O: 3243
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3622
+O: 3251
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3627
+O: 3256
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3632
+O: 3261
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3640
+O: 3262
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3649
+O: 3264
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3651
+O: 3273
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3659
+O: 3274
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3668
+O: 3276
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3670
+O: 3285
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3671
+O: 3293
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3679
+O: 3294
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3681
+O: 3303
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3688
+O: 3306
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3693
+O: 3311
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3702
+O: 3313
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3707
+O: 3318
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3708
+O: 3326
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3715
+O: 3329
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3724
+O: 3331
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3733
+O: 3333
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3738
+O: 3338
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3746
+O: 3339
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3753
+O: 3342
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3757
+O: 3346
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3762
+O: 3351
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3764
+O: 3360
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3769
+O: 3365
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3778
+O: 3367
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3786
+O: 3368
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3795
+O: 3370
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3803
+O: 3371
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3804
+O: 3379
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3806
+O: 3388
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3811
+O: 3393
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3819
+O: 3394
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3824
+O: 3399
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3825
+O: 3407
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3832
+O: 3410
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3841
+O: 3412
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3843
+O: 3421
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3848
+O: 3426
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3849
+O: 3434
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3855
+O: 3440
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3860
+O: 3445
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3862
+O: 3454
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3867
+O: 3459
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3872
+O: 3464
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3877
+O: 3469
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3886
+O: 3471
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3891
+O: 3476
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3892
+O: 3484
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3897
+O: 3489
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3902
+O: 3494
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3910
+O: 3495
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3918
+O: 3496
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3920
+O: 3505
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3929
+O: 3507
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3934
+O: 3512
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3942
+O: 3513
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3943
+O: 3521
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3945
+O: 3530
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3950
+O: 3535
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3951
+O: 3543
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3959
+O: 3544
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3966
+O: 3547
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3974
+O: 3548
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3983
+O: 3550
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 3988
+O: 3555
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 3989
+O: 3563
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 3998
+O: 3565
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4003
+O: 3570
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4011
+O: 3571
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4013
+O: 3580
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4020
+O: 3583
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4024
+O: 3587
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4032
+O: 3588
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4034
+O: 3597
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4040
+O: 3603
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4047
+O: 3606
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4052
+O: 3611
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4053
+O: 3619
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4062
+O: 3621
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4067
+O: 3626
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4068
+O: 3634
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4073
+O: 3639
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4081
+O: 3640
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4086
+O: 3645
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4088
+O: 3654
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4089
+O: 3662
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4094
+O: 3667
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4101
+O: 3670
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4106
+O: 3675
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4111
+O: 3680
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4116
+O: 3685
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4117
+O: 3693
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4122
+O: 3698
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4129
+O: 3701
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4130
+O: 3709
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4135
+O: 3714
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4140
+O: 3719
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4149
+O: 3721
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4150
+O: 3729
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4151
+O: 3737
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4160
+O: 3739
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4169
+O: 3741
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4177
+O: 3742
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4185
+O: 3743
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4187
+O: 3752
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4192
+O: 3757
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4197
+O: 3762
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4199
+O: 3771
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4204
+O: 3776
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4205
+O: 3784
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4209
+O: 3788
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4216
+O: 3791
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4221
+O: 3796
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4230
+O: 3798
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4235
+O: 3803
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4240
+O: 3808
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4248
+O: 3809
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4253
+O: 3814
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4262
+O: 3816
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4267
+O: 3821
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4276
+O: 3823
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4277
+O: 3831
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4286
+O: 3833
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4291
+O: 3838
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4299
+O: 3839
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4300
+O: 3847
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4309
+O: 3849
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4314
+O: 3854
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4319
+O: 3859
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4328
+O: 3861
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4333
+O: 3866
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4341
+O: 3867
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4342
+O: 3875
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4347
+O: 3880
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4356
+O: 3882
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4357
+O: 3890
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4362
+O: 3895
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4363
+O: 3903
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4364
+O: 3911
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4369
+O: 3916
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4370
+O: 3924
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4376
+O: 3930
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4385
+O: 3932
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4390
+O: 3937
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4399
+O: 3939
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4405
+O: 3945
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4413
+O: 3946
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4418
+O: 3951
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4426
+O: 3952
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4427
+O: 3960
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4435
+O: 3961
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4443
+O: 3962
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4450
+O: 3965
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4451
+O: 3973
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4457
+O: 3979
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4465
+O: 3980
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4474
+O: 3982
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4483
+O: 3984
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4484
+O: 3992
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4493
+O: 3994
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4498
+O: 3999
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4506
+O: 4000
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4515
+O: 4002
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4522
+O: 4005
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4530
+O: 4006
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4536
+O: 4012
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4544
+O: 4013
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4549
+O: 4018
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4557
+O: 4019
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4562
+O: 4024
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4570
+O: 4025
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4571
+O: 4033
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4579
+O: 4034
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4588
+O: 4036
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4590
+O: 4045
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4595
+O: 4050
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4600
+O: 4055
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4605
+O: 4060
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4607
+O: 4069
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4616
+O: 4071
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4618
+O: 4080
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4626
+O: 4081
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4634
+O: 4082
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4636
+O: 4091
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4641
+O: 4096
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4650
+O: 4098
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4651
+O: 4106
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4656
+O: 4111
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4657
+O: 4119
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4665
+O: 4120
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4670
+O: 4125
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4675
+O: 4130
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4683
+O: 4131
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4688
+O: 4136
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4697
+O: 4138
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4706
+O: 4140
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4707
+O: 4148
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4716
+O: 4150
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4721
+O: 4155
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4722
+O: 4163
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4727
+O: 4168
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4732
+O: 4173
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4734
+O: 4182
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4741
+O: 4185
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4746
+O: 4190
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4751
+O: 4195
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4756
+O: 4200
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4765
+O: 4202
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4770
+O: 4207
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4775
+O: 4212
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4780
+O: 4217
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4788
+O: 4218
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4793
+O: 4223
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4794
+O: 4231
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4799
+O: 4236
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4800
+O: 4244
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4809
+O: 4246
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4814
+O: 4251
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4815
+O: 4259
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4816
+O: 4267
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4820
+O: 4271
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4825
+O: 4276
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4826
+O: 4284
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4831
+O: 4289
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4836
+O: 4294
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4841
+O: 4299
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4850
+O: 4301
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4851
+O: 4309
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4859
+O: 4310
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4864
+O: 4315
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4869
+O: 4320
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4874
+O: 4325
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4882
+O: 4326
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4883
+O: 4334
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4884
+O: 4342
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4891
+O: 4345
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4896
+O: 4350
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4901
+O: 4355
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4909
+O: 4356
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4914
+O: 4361
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4923
+O: 4363
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4924
+O: 4371
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4926
+O: 4380
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4931
+O: 4385
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4936
+O: 4390
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4938
+O: 4399
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4945
+O: 4402
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4946
+O: 4410
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4954
+O: 4411
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4959
+O: 4416
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4964
+O: 4421
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4965
+O: 4429
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4966
+O: 4437
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 4967
+O: 4445
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4972
+O: 4450
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4977
+O: 4455
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4985
+O: 4456
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 4993
+O: 4457
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 4998
+O: 4462
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5003
+O: 4467
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5011
+O: 4468
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5020
+O: 4470
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5028
+O: 4471
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5030
+O: 4480
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5032
+O: 4489
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5037
+O: 4494
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5042
+O: 4499
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5050
+O: 4500
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5058
+O: 4501
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5065
+O: 4504
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5074
+O: 4506
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5075
+O: 4514
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5083
+O: 4515
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5084
+O: 4523
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5089
+O: 4528
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5094
+O: 4533
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5095
+O: 4541
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5100
+O: 4546
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5105
+O: 4551
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5112
+O: 4554
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5117
+O: 4559
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5118
+O: 4567
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5125
+O: 4570
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5132
+O: 4573
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5133
+O: 4581
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5138
+O: 4586
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5143
+O: 4591
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5152
+O: 4593
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5160
+O: 4594
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5165
+O: 4599
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5170
+O: 4604
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5175
+O: 4609
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5176
+O: 4617
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5177
+O: 4625
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5185
+O: 4626
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5193
+O: 4627
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5194
+O: 4635
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5199
+O: 4640
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5208
+O: 4642
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5213
+O: 4647
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5222
+O: 4649
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5227
+O: 4654
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5236
+O: 4656
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5238
+O: 4665
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5243
+O: 4670
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5245
+O: 4679
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5250
+O: 4684
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5255
+O: 4689
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5261
+O: 4695
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5269
+O: 4696
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5270
+O: 4704
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5277
+O: 4707
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5282
+O: 4712
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5291
+O: 4714
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5296
+O: 4719
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5301
+O: 4724
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5306
+O: 4729
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5308
+O: 4738
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5309
+O: 4746
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5314
+O: 4751
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5322
+O: 4752
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5328
+O: 4758
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5333
+O: 4763
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5341
+O: 4764
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5346
+O: 4769
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5355
+O: 4771
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5364
+O: 4773
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5369
+O: 4778
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5374
+O: 4783
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5379
+O: 4788
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5381
+O: 4797
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5386
+O: 4802
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5390
+O: 4806
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5396
+O: 4812
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5397
+O: 4820
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5398
+O: 4828
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5399
+O: 4836
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5400
+O: 4844
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5409
+O: 4846
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5410
+O: 4854
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5419
+O: 4856
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5424
+O: 4861
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5429
+O: 4866
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5437
+O: 4867
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5438
+O: 4875
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5439
+O: 4883
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5447
+O: 4884
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5451
+O: 4888
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5456
+O: 4893
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5465
+O: 4895
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5470
+O: 4900
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5472
+O: 4909
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5477
+O: 4914
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5478
+O: 4922
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5487
+O: 4924
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5489
+O: 4933
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5498
+O: 4935
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5503
+O: 4940
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5504
+O: 4948
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5505
+O: 4956
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5513
+O: 4957
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5518
+O: 4962
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5523
+O: 4967
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5528
+O: 4972
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5530
+O: 4981
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5533
+O: 4988
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5534
+O: 4996
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5536
+O: 5005
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5537
+O: 5013
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5539
+O: 5022
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5540
+O: 5030
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5543
+O: 5037
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5548
+O: 5042
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5553
+O: 5047
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5558
+O: 5052
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5563
+O: 5057
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5572
+O: 5059
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5578
+O: 5065
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5580
+O: 5074
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5588
+O: 5075
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5597
+O: 5077
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5606
+O: 5079
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5611
+O: 5084
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5620
+O: 5086
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5625
+O: 5091
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5630
+O: 5096
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5631
+O: 5104
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5640
+O: 5106
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5648
+O: 5107
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5656
+O: 5108
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5665
+O: 5110
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5666
+O: 5118
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5675
+O: 5120
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5683
+O: 5121
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5688
+O: 5126
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5693
+O: 5131
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5698
+O: 5136
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5707
+O: 5138
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5711
+O: 5142
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5712
+O: 5150
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5721
+O: 5152
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5726
+O: 5157
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5731
+O: 5162
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5736
+O: 5167
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5741
+O: 5172
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5743
+O: 5181
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5752
+O: 5183
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5754
+O: 5192
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5762
+O: 5193
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5770
+O: 5194
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5779
+O: 5196
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5783
+O: 5200
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5785
+O: 5209
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5786
+O: 5217
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5787
+O: 5225
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5789
+O: 5234
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5797
+O: 5235
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5805
+O: 5236
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5813
+O: 5237
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5818
+O: 5242
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5827
+O: 5244
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5830
+O: 5251
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5833
+O: 5258
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5838
+O: 5263
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5840
+O: 5272
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5848
+O: 5273
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5857
+O: 5275
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5865
+O: 5276
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5870
+O: 5281
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5875
+O: 5286
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5876
+O: 5294
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5877
+O: 5302
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5882
+O: 5307
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5884
+O: 5316
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5893
+O: 5318
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5898
+O: 5323
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5899
+O: 5331
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5900
+O: 5339
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5905
+O: 5344
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5914
+O: 5346
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5919
+O: 5351
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5924
+O: 5356
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5925
+O: 5364
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5926
+O: 5372
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5927
+O: 5380
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5932
+O: 5385
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5934
+O: 5394
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5939
+O: 5399
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5944
+O: 5404
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5945
+O: 5412
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5950
+O: 5417
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5955
+O: 5422
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5956
+O: 5430
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5957
+O: 5438
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5965
+O: 5439
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5967
+O: 5448
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 5968
+O: 5456
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5976
+O: 5457
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5981
+O: 5462
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 5986
+O: 5467
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 5995
+O: 5469
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6000
+O: 5474
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6001
+O: 5482
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6009
+O: 5483
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6015
+O: 5489
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6016
+O: 5497
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6025
+O: 5499
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6030
+O: 5504
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6032
+O: 5513
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6040
+O: 5514
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6041
+O: 5522
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6049
+O: 5523
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6057
+O: 5524
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6062
+O: 5529
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6071
+O: 5531
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6076
+O: 5536
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6084
+O: 5537
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6089
+O: 5542
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6098
+O: 5544
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6106
+O: 5545
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6113
+O: 5548
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6118
+O: 5553
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6123
+O: 5558
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6124
+O: 5566
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6133
+O: 5568
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6138
+O: 5573
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6139
+O: 5581
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6140
+O: 5589
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6145
+O: 5594
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6154
+O: 5596
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6155
+O: 5604
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6160
+O: 5609
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6167
+O: 5612
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6170
+O: 5619
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6175
+O: 5624
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6177
+O: 5633
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6180
+O: 5640
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6181
+O: 5648
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6182
+O: 5656
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6191
+O: 5658
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6194
+O: 5665
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6195
+O: 5673
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6200
+O: 5678
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6201
+O: 5686
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6209
+O: 5687
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6218
+O: 5689
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6225
+O: 5692
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6226
+O: 5700
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6227
+O: 5708
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6235
+O: 5709
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6236
+O: 5717
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6237
+O: 5725
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6246
+O: 5727
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6251
+O: 5732
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6256
+O: 5737
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6264
+O: 5738
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6269
+O: 5743
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6274
+O: 5748
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6275
+O: 5756
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6276
+O: 5764
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6277
+O: 5772
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6282
+O: 5777
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6286
+O: 5781
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6288
+O: 5790
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6289
+O: 5798
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6297
+O: 5799
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6298
+O: 5807
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6303
+O: 5812
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6310
+O: 5815
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6315
+O: 5820
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6320
+O: 5825
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6328
+O: 5826
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6333
+O: 5831
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6341
+O: 5832
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6346
+O: 5837
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6354
+O: 5838
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6359
+O: 5843
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6364
+O: 5848
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6372
+O: 5849
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6373
+O: 5857
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6374
+O: 5865
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6379
+O: 5870
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6384
+O: 5875
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6389
+O: 5880
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6397
+O: 5881
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6402
+O: 5886
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6407
+O: 5891
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6415
+O: 5892
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6416
+O: 5900
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6419
+O: 5907
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6427
+O: 5908
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6432
+O: 5913
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6433
+O: 5921
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6442
+O: 5923
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6451
+O: 5925
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6456
+O: 5930
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6461
+O: 5935
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6467
+O: 5941
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6472
+O: 5946
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6477
+O: 5951
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6478
+O: 5959
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6483
+O: 5964
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6491
+O: 5965
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6493
+O: 5974
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6502
+O: 5976
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6503
+O: 5984
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6512
+O: 5986
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6520
+O: 5987
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6525
+O: 5992
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6534
+O: 5994
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6535
+O: 6002
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6543
+O: 6003
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6551
+O: 6004
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6553
+O: 6013
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6554
+O: 6021
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6558
+O: 6025
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6560
+O: 6034
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6569
+O: 6036
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6578
+O: 6038
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6585
+O: 6041
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6594
+O: 6043
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6603
+O: 6045
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6609
+O: 6051
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6617
+O: 6052
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6624
+O: 6055
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6632
+O: 6056
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6639
+O: 6059
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6648
+O: 6061
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6653
+O: 6066
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6655
+O: 6075
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6660
+O: 6080
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6661
+O: 6088
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6669
+O: 6089
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6675
+O: 6095
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6676
+O: 6103
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6681
+O: 6108
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6686
+O: 6113
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6687
+O: 6121
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6692
+O: 6126
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6700
+O: 6127
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6708
+O: 6128
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6713
+O: 6133
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6722
+O: 6135
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6727
+O: 6140
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6729
+O: 6149
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6730
+O: 6157
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6735
+O: 6162
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6736
+O: 6170
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6744
+O: 6171
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6746
+O: 6180
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6751
+O: 6185
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6756
+O: 6190
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6761
+O: 6195
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6766
+O: 6200
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6773
+O: 6203
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6778
+O: 6208
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6785
+O: 6211
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6788
+O: 6218
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6795
+O: 6221
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6796
+O: 6229
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6801
+O: 6234
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6806
+O: 6239
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6807
+O: 6247
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6812
+O: 6252
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6814
+O: 6261
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6816
+O: 6270
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6824
+O: 6271
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6829
+O: 6276
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6834
+O: 6281
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6836
+O: 6290
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6845
+O: 6292
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6851
+O: 6298
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6860
+O: 6300
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6869
+O: 6302
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6878
+O: 6304
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6879
+O: 6312
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6880
+O: 6320
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6881
+O: 6328
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6890
+O: 6330
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6891
+O: 6338
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6893
+O: 6347
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6898
+O: 6352
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6900
+O: 6361
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6901
+O: 6369
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6908
+O: 6372
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6913
+O: 6377
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6914
+O: 6385
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6923
+O: 6387
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6928
+O: 6392
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6933
+O: 6397
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6938
+O: 6402
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6943
+O: 6407
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6948
+O: 6412
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6949
+O: 6420
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6950
+O: 6428
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6958
+O: 6429
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6963
+O: 6434
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 6964
+O: 6442
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6969
+O: 6447
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6974
+O: 6452
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6978
+O: 6456
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6983
+O: 6461
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 6988
+O: 6466
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 6996
+O: 6467
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7004
+O: 6468
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7011
+O: 6471
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7012
+O: 6479
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7017
+O: 6484
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7022
+O: 6489
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7031
+O: 6491
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7038
+O: 6494
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7040
+O: 6503
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7048
+O: 6504
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7050
+O: 6513
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7053
+O: 6520
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7054
+O: 6528
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7063
+O: 6530
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7068
+O: 6535
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7076
+O: 6536
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7083
+O: 6539
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7088
+O: 6544
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7095
+O: 6547
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7096
+O: 6555
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7104
+O: 6556
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7105
+O: 6564
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7113
+O: 6565
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7118
+O: 6570
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7122
+O: 6574
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7127
+O: 6579
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7132
+O: 6584
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7140
+O: 6585
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7142
+O: 6594
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7143
+O: 6602
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7148
+O: 6607
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7156
+O: 6608
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7165
+O: 6610
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7170
+O: 6615
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7171
+O: 6623
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7172
+O: 6631
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7178
+O: 6637
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7179
+O: 6645
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7187
+O: 6646
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7196
+O: 6648
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7204
+O: 6649
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7206
+O: 6658
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7212
+O: 6664
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7221
+O: 6666
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7230
+O: 6668
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7238
+O: 6669
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7239
+O: 6677
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7244
+O: 6682
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7245
+O: 6690
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7247
+O: 6699
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7252
+O: 6704
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7257
+O: 6709
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7258
+O: 6717
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7260
+O: 6726
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7261
+O: 6734
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7266
+O: 6739
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7267
+O: 6747
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7272
+O: 6752
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7281
+O: 6754
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7286
+O: 6759
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7287
+O: 6767
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7288
+O: 6775
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7296
+O: 6776
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7301
+O: 6781
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7306
+O: 6786
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7308
+O: 6795
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7314
+O: 6801
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7316
+O: 6810
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7324
+O: 6811
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7332
+O: 6812
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7333
+O: 6820
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7334
+O: 6828
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7343
+O: 6830
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7351
+O: 6831
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7359
+O: 6832
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7366
+O: 6835
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7375
+O: 6837
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7378
+O: 6844
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7379
+O: 6852
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7384
+O: 6857
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7389
+O: 6862
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7397
+O: 6863
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7402
+O: 6868
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7403
+O: 6876
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7404
+O: 6884
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7405
+O: 6892
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7410
+O: 6897
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7411
+O: 6905
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7416
+O: 6910
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7421
+O: 6915
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7426
+O: 6920
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7431
+O: 6925
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7436
+O: 6930
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7441
+O: 6935
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7450
+O: 6937
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7458
+O: 6938
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7463
+O: 6943
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7464
+O: 6951
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7466
+O: 6960
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7470
+O: 6964
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7475
+O: 6969
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7480
+O: 6974
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7489
+O: 6976
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7496
+O: 6979
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7497
+O: 6987
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7499
+O: 6996
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7508
+O: 6998
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7513
+O: 7003
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7518
+O: 7008
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7519
+O: 7016
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7520
+O: 7024
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7521
+O: 7032
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7529
+O: 7033
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7530
+O: 7041
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7534
+O: 7045
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7539
+O: 7050
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7544
+O: 7055
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7546
+O: 7064
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7554
+O: 7065
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7559
+O: 7070
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7561
+O: 7079
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7566
+O: 7084
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7567
+O: 7092
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7568
+O: 7100
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7569
+O: 7108
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7576
+O: 7111
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7577
+O: 7119
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7585
+O: 7120
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7590
+O: 7125
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7595
+O: 7130
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7600
+O: 7135
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7608
+O: 7136
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7616
+O: 7137
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7617
+O: 7145
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7621
+O: 7149
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7626
+O: 7154
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7631
+O: 7159
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7636
+O: 7164
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7637
+O: 7172
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7638
+O: 7180
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7647
+O: 7182
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7648
+O: 7190
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7657
+O: 7192
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7658
+O: 7200
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7663
+O: 7205
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7667
+O: 7209
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7675
+O: 7210
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7681
+O: 7216
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7690
+O: 7218
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7692
+O: 7227
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7701
+O: 7229
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7706
+O: 7234
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7707
+O: 7242
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7711
+O: 7246
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7716
+O: 7251
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7717
+O: 7259
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7722
+O: 7264
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7723
+O: 7272
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7730
+O: 7275
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7731
+O: 7283
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7738
+O: 7286
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7743
+O: 7291
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7744
+O: 7299
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7753
+O: 7301
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7757
+O: 7305
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7761
+O: 7309
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7768
+O: 7312
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7769
+O: 7320
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7770
+O: 7328
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7775
+O: 7333
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7783
+O: 7334
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7788
+O: 7339
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7797
+O: 7341
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7805
+O: 7342
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7806
+O: 7350
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7807
+O: 7358
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7808
+O: 7366
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7809
+O: 7374
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7810
+O: 7382
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7819
+O: 7384
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7827
+O: 7385
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7835
+O: 7386
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7841
+O: 7392
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7843
+O: 7401
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7851
+O: 7402
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7859
+O: 7403
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7861
+O: 7412
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7862
+O: 7420
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7863
+O: 7428
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7872
+O: 7430
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7873
+O: 7438
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7881
+O: 7439
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7886
+O: 7444
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7887
+O: 7452
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7892
+O: 7457
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7894
+O: 7466
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7902
+O: 7467
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7911
+O: 7469
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7913
+O: 7478
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7918
+O: 7483
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7923
+O: 7488
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7931
+O: 7489
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7936
+O: 7494
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7941
+O: 7499
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7942
+O: 7507
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7947
+O: 7512
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7953
+O: 7518
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 7954
+O: 7526
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7963
+O: 7528
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7968
+O: 7533
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7976
+O: 7534
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 7985
+O: 7536
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7989
+O: 7540
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 7994
+O: 7545
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8002
+O: 7546
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8003
+O: 7554
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8008
+O: 7559
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8016
+O: 7560
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8021
+O: 7565
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8028
+O: 7568
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8037
+O: 7570
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8042
+O: 7575
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8044
+O: 7584
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8046
+O: 7593
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8047
+O: 7601
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8056
+O: 7603
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8061
+O: 7608
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8070
+O: 7610
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8079
+O: 7612
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8088
+O: 7614
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8097
+O: 7616
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8105
+O: 7617
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8110
+O: 7622
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8111
+O: 7630
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8120
+O: 7632
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8125
+O: 7637
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8126
+O: 7645
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8134
+O: 7646
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8142
+O: 7647
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8150
+O: 7648
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8155
+O: 7653
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8161
+O: 7659
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8168
+O: 7662
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8177
+O: 7664
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8178
+O: 7672
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8183
+O: 7677
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8192
+O: 7679
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8197
+O: 7684
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8205
+O: 7685
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8213
+O: 7686
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8220
+O: 7689
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8221
+O: 7697
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8226
+O: 7702
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8235
+O: 7704
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8236
+O: 7712
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8240
+O: 7716
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8244
+O: 7720
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8249
+O: 7725
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8253
+O: 7729
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8262
+O: 7731
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8267
+O: 7736
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8275
+O: 7737
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8280
+O: 7742
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8285
+O: 7747
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8290
+O: 7752
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8297
+O: 7755
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8298
+O: 7763
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8307
+O: 7765
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8308
+O: 7773
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8313
+O: 7778
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8318
+O: 7783
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8323
+O: 7788
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8325
+O: 7797
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8326
+O: 7805
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8331
+O: 7810
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8340
+O: 7812
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8341
+O: 7820
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8346
+O: 7825
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8351
+O: 7830
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8356
+O: 7835
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8357
+O: 7843
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8358
+O: 7851
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8359
+O: 7859
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8367
+O: 7860
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8372
+O: 7865
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8377
+O: 7870
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8379
+O: 7879
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8381
+O: 7888
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8383
+O: 7897
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8385
+O: 7906
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8394
+O: 7908
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8402
+O: 7909
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8410
+O: 7910
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8419
+O: 7912
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8424
+O: 7917
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8425
+O: 7925
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8433
+O: 7926
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8440
+O: 7929
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8445
+O: 7934
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8446
+O: 7942
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8453
+O: 7945
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8455
+O: 7954
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8456
+O: 7962
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8461
+O: 7967
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8466
+O: 7972
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8467
+O: 7980
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8468
+O: 7988
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8473
+O: 7993
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8481
+O: 7994
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8482
+O: 8002
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8483
+O: 8010
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8484
+O: 8018
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8489
+O: 8023
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8493
+O: 8027
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8494
+O: 8035
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8502
+O: 8036
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8507
+O: 8041
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8512
+O: 8046
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8517
+O: 8051
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8523
+O: 8057
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8532
+O: 8059
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8533
+O: 8067
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8542
+O: 8069
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8544
+O: 8078
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8549
+O: 8083
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8558
+O: 8085
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8560
+O: 8094
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8561
+O: 8102
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8562
+O: 8110
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8567
+O: 8115
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8572
+O: 8120
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8577
+O: 8125
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8585
+O: 8126
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8593
+O: 8127
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8601
+O: 8128
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8606
+O: 8133
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8607
+O: 8141
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8614
+O: 8144
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8623
+O: 8146
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8628
+O: 8151
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8633
+O: 8156
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8638
+O: 8161
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8643
+O: 8166
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8652
+O: 8168
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8654
+O: 8177
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8662
+O: 8178
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8669
+O: 8181
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8678
+O: 8183
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8679
+O: 8191
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8680
+O: 8199
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8688
+O: 8200
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8689
+O: 8208
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8698
+O: 8210
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8706
+O: 8211
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8711
+O: 8216
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8716
+O: 8221
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8724
+O: 8222
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8729
+O: 8227
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8734
+O: 8232
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8740
+O: 8238
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8747
+O: 8241
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8748
+O: 8249
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8756
+O: 8250
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8765
+O: 8252
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8770
+O: 8257
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8777
+O: 8260
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8779
+O: 8269
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8780
+O: 8277
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8788
+O: 8278
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8793
+O: 8283
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8802
+O: 8285
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8803
+O: 8293
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8811
+O: 8294
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8819
+O: 8295
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8827
+O: 8296
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8832
+O: 8301
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8833
+O: 8309
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8835
+O: 8318
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8844
+O: 8320
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8853
+O: 8322
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8854
+O: 8330
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8855
+O: 8338
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8860
+O: 8343
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8868
+O: 8344
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8869
+O: 8352
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8870
+O: 8360
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8879
+O: 8362
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8887
+O: 8363
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8889
+O: 8372
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8890
+O: 8380
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8895
+O: 8385
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8904
+O: 8387
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8912
+O: 8388
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8917
+O: 8393
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8922
+O: 8398
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8927
+O: 8403
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8929
+O: 8412
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8938
+O: 8414
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8942
+O: 8418
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8950
+O: 8419
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8959
+O: 8421
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8961
+O: 8430
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8969
+O: 8431
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8977
+O: 8432
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8982
+O: 8437
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 8984
+O: 8446
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 8989
+O: 8451
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 8998
+O: 8453
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9000
+O: 8462
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9005
+O: 8467
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9010
+O: 8472
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9018
+O: 8473
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9027
+O: 8475
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9035
+O: 8476
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9042
+O: 8479
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9050
+O: 8480
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9051
+O: 8488
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9060
+O: 8490
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9068
+O: 8491
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9069
+O: 8499
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9074
+O: 8504
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9081
+O: 8507
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9085
+O: 8511
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9090
+O: 8516
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9095
+O: 8521
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9100
+O: 8526
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9108
+O: 8527
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9117
+O: 8529
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9121
+O: 8533
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9129
+O: 8534
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9138
+O: 8536
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9143
+O: 8541
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9148
+O: 8546
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9152
+O: 8550
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9157
+O: 8555
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9159
+O: 8564
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9168
+O: 8566
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9177
+O: 8568
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9185
+O: 8569
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9186
+O: 8577
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9187
+O: 8585
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9195
+O: 8586
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9204
+O: 8588
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9210
+O: 8594
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9218
+O: 8595
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9226
+O: 8596
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9231
+O: 8601
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9240
+O: 8603
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9241
+O: 8611
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9247
+O: 8617
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9252
+O: 8622
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9257
+O: 8627
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9266
+O: 8629
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9271
+O: 8634
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9280
+O: 8636
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9281
+O: 8644
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9282
+O: 8652
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9287
+O: 8657
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9292
+O: 8662
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9294
+O: 8671
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9296
+O: 8680
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9297
+O: 8688
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9298
+O: 8696
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9300
+O: 8705
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9308
+O: 8706
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9313
+O: 8711
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9320
+O: 8714
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9328
+O: 8715
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9329
+O: 8723
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9334
+O: 8728
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9343
+O: 8730
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9351
+O: 8731
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9357
+O: 8737
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9365
+O: 8738
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9374
+O: 8740
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9382
+O: 8741
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9384
+O: 8750
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9386
+O: 8759
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9387
+O: 8767
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9388
+O: 8775
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9393
+O: 8780
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9398
+O: 8785
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9403
+O: 8790
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9408
+O: 8795
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9417
+O: 8797
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9418
+O: 8805
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9427
+O: 8807
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9433
+O: 8813
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9438
+O: 8818
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9446
+O: 8819
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9451
+O: 8824
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9452
+O: 8832
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9456
+O: 8836
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9461
+O: 8841
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9470
+O: 8843
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9472
+O: 8852
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9473
+O: 8860
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9481
+O: 8861
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9489
+O: 8862
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9494
+O: 8867
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9499
+O: 8872
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9507
+O: 8873
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9509
+O: 8882
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9510
+O: 8890
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9515
+O: 8895
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9520
+O: 8900
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9529
+O: 8902
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9537
+O: 8903
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9545
+O: 8904
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9552
+O: 8907
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9560
+O: 8908
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9565
+O: 8913
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9570
+O: 8918
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9575
+O: 8923
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9583
+O: 8924
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9592
+O: 8926
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9597
+O: 8931
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9605
+O: 8932
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9609
+O: 8936
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9614
+O: 8941
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9619
+O: 8946
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9628
+O: 8948
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9631
+O: 8955
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9639
+O: 8956
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9648
+O: 8958
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9649
+O: 8966
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9657
+O: 8967
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9666
+O: 8969
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9671
+O: 8974
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9676
+O: 8979
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9677
+O: 8987
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9681
+O: 8991
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9687
+O: 8997
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9692
+O: 9002
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9697
+O: 9007
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9698
+O: 9015
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9707
+O: 9017
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9715
+O: 9018
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9716
+O: 9026
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9717
+O: 9034
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9722
+O: 9039
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9727
+O: 9044
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9735
+O: 9045
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9736
+O: 9053
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9738
+O: 9062
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9739
+O: 9070
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9740
+O: 9078
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9748
+O: 9079
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9753
+O: 9084
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9755
+O: 9093
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9763
+O: 9094
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9764
+O: 9102
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9771
+O: 9105
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9779
+O: 9106
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9784
+O: 9111
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9789
+O: 9116
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9790
+O: 9124
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9791
+O: 9132
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9799
+O: 9133
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9806
+O: 9136
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9807
+O: 9144
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9808
+O: 9152
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9813
+O: 9157
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9821
+O: 9158
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9826
+O: 9163
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9831
+O: 9168
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9832
+O: 9176
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9837
+O: 9181
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9838
+O: 9189
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9846
+O: 9190
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9851
+O: 9195
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9860
+O: 9197
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9861
+O: 9205
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9869
+O: 9206
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9874
+O: 9211
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9881
+O: 9214
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9883
+O: 9223
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9891
+O: 9224
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9895
+O: 9228
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9896
+O: 9236
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9905
+O: 9238
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9910
+O: 9243
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9915
+O: 9248
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9920
+O: 9253
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9929
+O: 9255
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9938
+O: 9257
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9942
+O: 9261
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9944
+O: 9270
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9945
+O: 9278
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9947
+O: 9287
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9952
+O: 9292
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9957
+O: 9297
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9966
+O: 9299
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9971
+O: 9304
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9977
+O: 9310
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9979
+O: 9319
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 9988
+O: 9321
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9990
+O: 9330
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 9995
+O: 9335
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 9996
+O: 9343
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10001
+O: 9348
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10006
+O: 9353
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10014
+O: 9354
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10019
+O: 9359
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10027
+O: 9360
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10035
+O: 9361
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10043
+O: 9362
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10051
+O: 9363
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10056
+O: 9368
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10064
+O: 9369
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10065
+O: 9377
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10066
+O: 9385
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10067
+O: 9393
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10074
+O: 9396
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10083
+O: 9398
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10089
+O: 9404
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10094
+O: 9409
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10102
+O: 9410
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10111
+O: 9412
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10116
+O: 9417
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10121
+O: 9422
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10126
+O: 9427
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10134
+O: 9428
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10143
+O: 9430
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10149
+O: 9436
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10151
+O: 9445
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10156
+O: 9450
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10161
+O: 9455
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10166
+O: 9460
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10167
+O: 9468
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10172
+O: 9473
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10181
+O: 9475
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10189
+O: 9476
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10194
+O: 9481
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10199
+O: 9486
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10205
+O: 9492
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10214
+O: 9494
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10215
+O: 9502
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10220
+O: 9507
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10221
+O: 9515
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10230
+O: 9517
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10235
+O: 9522
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10241
+O: 9528
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10247
+O: 9534
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10255
+O: 9535
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10256
+O: 9543
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10257
+O: 9551
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10261
+O: 9555
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10270
+O: 9557
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10278
+O: 9558
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10283
+O: 9563
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10284
+O: 9571
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10285
+O: 9579
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10294
+O: 9581
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10295
+O: 9589
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10303
+O: 9590
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10308
+O: 9595
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10310
+O: 9604
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10312
+O: 9613
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10321
+O: 9615
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10329
+O: 9616
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10334
+O: 9621
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10339
+O: 9626
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10344
+O: 9631
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10349
+O: 9636
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10354
+O: 9641
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10355
+O: 9649
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10360
+O: 9654
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10365
+O: 9659
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10374
+O: 9661
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10383
+O: 9663
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10386
+O: 9670
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10394
+O: 9671
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10402
+O: 9672
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10410
+O: 9673
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10414
+O: 9677
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10416
+O: 9686
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10421
+O: 9691
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10430
+O: 9693
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10431
+O: 9701
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10439
+O: 9702
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10444
+O: 9707
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10449
+O: 9712
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10450
+O: 9720
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10455
+O: 9725
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10460
+O: 9730
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10466
+O: 9736
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10472
+O: 9742
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10473
+O: 9750
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10481
+O: 9751
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10486
+O: 9756
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10488
+O: 9765
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10493
+O: 9770
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10497
+O: 9774
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10498
+O: 9782
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10499
+O: 9790
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10504
+O: 9795
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10506
+O: 9804
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10514
+O: 9805
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10519
+O: 9810
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10520
+O: 9818
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10522
+O: 9827
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10529
+O: 9830
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10534
+O: 9835
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10539
+O: 9840
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10544
+O: 9845
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10552
+O: 9846
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10553
+O: 9854
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10561
+O: 9855
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10568
+O: 9858
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10577
+O: 9860
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10582
+O: 9865
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10587
+O: 9870
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10588
+O: 9878
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10593
+O: 9883
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10598
+O: 9888
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10599
+O: 9896
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10607
+O: 9897
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10609
+O: 9906
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10616
+O: 9909
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10617
+O: 9917
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10622
+O: 9922
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10628
+O: 9928
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10629
+O: 9936
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10637
+O: 9937
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10642
+O: 9942
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10650
+O: 9943
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10655
+O: 9948
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10659
+O: 9952
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10667
+O: 9953
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10675
+O: 9954
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10680
+O: 9959
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10685
+O: 9964
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10694
+O: 9966
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10701
+O: 9969
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10703
+O: 9978
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10708
+O: 9983
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10717
+O: 9985
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10722
+O: 9990
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10730
+O: 9991
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10735
+O: 9996
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10744
+O: 9998
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10749
+O: 10003
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10750
+O: 10011
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10755
+O: 10016
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10764
+O: 10018
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10769
+O: 10023
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10778
+O: 10025
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10780
+O: 10034
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10785
+O: 10039
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10790
+O: 10044
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10797
+O: 10047
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10805
+O: 10048
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10810
+O: 10053
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10812
+O: 10062
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10813
+O: 10070
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10817
+O: 10074
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10822
+O: 10079
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10830
+O: 10080
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10835
+O: 10085
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10836
+O: 10093
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10841
+O: 10098
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10846
+O: 10103
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10847
+O: 10111
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10848
+O: 10119
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10849
+O: 10127
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10854
+O: 10132
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10859
+O: 10137
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10866
+O: 10140
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10875
+O: 10142
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10877
+O: 10151
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10884
+O: 10154
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10889
+O: 10159
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10891
+O: 10168
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10892
+O: 10176
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10900
+O: 10177
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10905
+O: 10182
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10912
+O: 10185
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10916
+O: 10189
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10921
+O: 10194
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10926
+O: 10199
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10931
+O: 10204
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10933
+O: 10213
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10934
+O: 10221
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10939
+O: 10226
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10944
+O: 10231
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10953
+O: 10233
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10955
+O: 10242
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10956
+O: 10250
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10965
+O: 10252
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10973
+O: 10253
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10974
+O: 10261
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10983
+O: 10263
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 10984
+O: 10271
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 10992
+O: 10272
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 10997
+O: 10277
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11006
+O: 10279
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11008
+O: 10288
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11009
+O: 10296
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11011
+O: 10305
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11012
+O: 10313
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11017
+O: 10318
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11026
+O: 10320
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11035
+O: 10322
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11044
+O: 10324
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11052
+O: 10325
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11057
+O: 10330
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11058
+O: 10338
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11063
+O: 10343
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11068
+O: 10348
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11069
+O: 10356
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11078
+O: 10358
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11083
+O: 10363
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11085
+O: 10372
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11093
+O: 10373
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11102
+O: 10375
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11103
+O: 10383
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11111
+O: 10384
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11116
+O: 10389
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11121
+O: 10394
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11126
+O: 10399
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11134
+O: 10400
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11142
+O: 10401
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11144
+O: 10410
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11145
+O: 10418
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11149
+O: 10422
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11154
+O: 10427
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11159
+O: 10432
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11164
+O: 10437
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11172
+O: 10438
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11180
+O: 10439
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11188
+O: 10440
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11194
+O: 10446
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11203
+O: 10448
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11207
+O: 10452
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11212
+O: 10457
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11213
+O: 10465
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11214
+O: 10473
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11219
+O: 10478
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11221
+O: 10487
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11226
+O: 10492
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11233
+O: 10495
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11238
+O: 10500
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11241
+O: 10507
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11246
+O: 10512
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11247
+O: 10520
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11252
+O: 10525
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11253
+O: 10533
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11260
+O: 10536
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11265
+O: 10541
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11274
+O: 10543
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11275
+O: 10551
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11284
+O: 10553
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11292
+O: 10554
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11297
+O: 10559
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11298
+O: 10567
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11303
+O: 10572
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11311
+O: 10573
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11312
+O: 10581
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11318
+O: 10587
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11319
+O: 10595
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11324
+O: 10600
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11329
+O: 10605
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11334
+O: 10610
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11336
+O: 10619
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11341
+O: 10624
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11346
+O: 10629
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11351
+O: 10634
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11359
+O: 10635
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11368
+O: 10637
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11370
+O: 10646
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11378
+O: 10647
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11383
+O: 10652
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11389
+O: 10658
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11390
+O: 10666
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11398
+O: 10667
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11405
+O: 10670
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11406
+O: 10678
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11411
+O: 10683
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11412
+O: 10691
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11419
+O: 10694
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11420
+O: 10702
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11429
+O: 10704
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11435
+O: 10710
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11436
+O: 10718
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11441
+O: 10723
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11442
+O: 10731
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11451
+O: 10733
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11452
+O: 10741
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11461
+O: 10743
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11466
+O: 10748
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11475
+O: 10750
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11476
+O: 10758
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11484
+O: 10759
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11485
+O: 10767
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11488
+O: 10774
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11489
+O: 10782
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11494
+O: 10787
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11499
+O: 10792
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11504
+O: 10797
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11512
+O: 10798
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11517
+O: 10803
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11522
+O: 10808
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11531
+O: 10810
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11533
+O: 10819
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11538
+O: 10824
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11543
+O: 10829
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11548
+O: 10834
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11549
+O: 10842
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11550
+O: 10850
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11551
+O: 10858
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11558
+O: 10861
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11567
+O: 10863
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11568
+O: 10871
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11576
+O: 10872
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11581
+O: 10877
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11590
+O: 10879
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11595
+O: 10884
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11600
+O: 10889
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11605
+O: 10894
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11610
+O: 10899
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11612
+O: 10908
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11620
+O: 10909
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11629
+O: 10911
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11634
+O: 10916
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11639
+O: 10921
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11648
+O: 10923
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11656
+O: 10924
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11661
+O: 10929
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11670
+O: 10931
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11675
+O: 10936
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11680
+O: 10941
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11686
+O: 10947
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11694
+O: 10948
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11703
+O: 10950
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11705
+O: 10959
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11706
+O: 10967
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11713
+O: 10970
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11714
+O: 10978
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11715
+O: 10986
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11720
+O: 10991
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11725
+O: 10996
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11728
+O: 11003
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11733
+O: 11008
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11740
+O: 11011
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11748
+O: 11012
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11749
+O: 11020
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11756
+O: 11023
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11763
+O: 11026
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11764
+O: 11034
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11772
+O: 11035
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11773
+O: 11043
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11780
+O: 11046
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11789
+O: 11048
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11794
+O: 11053
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11799
+O: 11058
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11801
+O: 11067
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11809
+O: 11068
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11810
+O: 11076
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11815
+O: 11081
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11816
+O: 11089
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11817
+O: 11097
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11818
+O: 11105
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11823
+O: 11110
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11825
+O: 11119
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11834
+O: 11121
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11839
+O: 11126
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11844
+O: 11131
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11849
+O: 11136
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11850
+O: 11144
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11858
+O: 11145
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11866
+O: 11146
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11871
+O: 11151
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11880
+O: 11153
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11885
+O: 11158
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11893
+O: 11159
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11898
+O: 11164
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11899
+O: 11172
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11907
+O: 11173
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11916
+O: 11175
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11921
+O: 11180
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11922
+O: 11188
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11927
+O: 11193
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11931
+O: 11197
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11936
+O: 11202
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11941
+O: 11207
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11946
+O: 11212
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11955
+O: 11214
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11956
+O: 11222
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11961
+O: 11227
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11968
+O: 11230
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 11970
+O: 11239
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11975
+O: 11244
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 11981
+O: 11250
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11990
+O: 11252
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 11998
+O: 11253
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12006
+O: 11254
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12011
+O: 11259
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12016
+O: 11264
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12024
+O: 11265
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12033
+O: 11267
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12038
+O: 11272
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12039
+O: 11280
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12047
+O: 11281
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12055
+O: 11282
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12057
+O: 11291
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12065
+O: 11292
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12067
+O: 11301
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12075
+O: 11302
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12080
+O: 11307
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12082
+O: 11316
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12083
+O: 11324
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12084
+O: 11332
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12089
+O: 11337
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12093
+O: 11341
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12098
+O: 11346
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12107
+O: 11348
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12108
+O: 11356
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12113
+O: 11361
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12118
+O: 11366
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12126
+O: 11367
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12127
+O: 11375
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12132
+O: 11380
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12140
+O: 11381
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12144
+O: 11385
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12152
+O: 11386
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12154
+O: 11395
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12162
+O: 11396
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12164
+O: 11405
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12167
+O: 11412
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12172
+O: 11417
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12177
+O: 11422
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12185
+O: 11423
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12186
+O: 11431
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12195
+O: 11433
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12200
+O: 11438
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12205
+O: 11443
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12214
+O: 11445
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12219
+O: 11450
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12224
+O: 11455
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12225
+O: 11463
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12230
+O: 11468
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12232
+O: 11477
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12234
+O: 11486
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12239
+O: 11491
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12244
+O: 11496
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12245
+O: 11504
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12252
+O: 11507
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12259
+O: 11510
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12266
+O: 11513
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12268
+O: 11522
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12273
+O: 11527
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12280
+O: 11530
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12288
+O: 11531
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12295
+O: 11534
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12300
+O: 11539
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12308
+O: 11540
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12317
+O: 11542
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12318
+O: 11550
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12322
+O: 11554
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12327
+O: 11559
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12332
+O: 11564
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12333
+O: 11572
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12338
+O: 11577
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12343
+O: 11582
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12345
+O: 11591
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12350
+O: 11596
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12358
+O: 11597
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12363
+O: 11602
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12371
+O: 11603
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12378
+O: 11606
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12386
+O: 11607
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12391
+O: 11612
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12400
+O: 11614
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12408
+O: 11615
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12409
+O: 11623
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12410
+O: 11631
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12419
+O: 11633
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12420
+O: 11641
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12425
+O: 11646
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12433
+O: 11647
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12438
+O: 11652
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12440
+O: 11661
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12448
+O: 11662
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12455
+O: 11665
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12456
+O: 11673
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12464
+O: 11674
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12469
+O: 11679
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12474
+O: 11684
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12481
+O: 11687
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12490
+O: 11689
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12498
+O: 11690
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12503
+O: 11695
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12504
+O: 11703
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12509
+O: 11708
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12518
+O: 11710
+Array 0: C
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12525
+O: 11713
+Array 0: A
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12529
+O: 11717
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12537
+O: 11718
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12538
+O: 11726
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12539
+O: 11734
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12547
+O: 11735
+Array 0: C
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12553
+O: 11741
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12558
+O: 11746
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12561
+O: 11753
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12569
+O: 11754
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12570
+O: 11762
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12575
+O: 11767
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12576
+O: 11775
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12584
+O: 11776
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12586
+O: 11785
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12591
+O: 11790
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12596
+O: 11795
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12598
+O: 11804
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12601
+O: 11811
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12606
+O: 11816
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12614
+O: 11817
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12622
+O: 11818
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12627
+O: 11823
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12636
+O: 11825
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12641
+O: 11830
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12646
+O: 11835
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12651
+O: 11840
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12652
+O: 11848
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12657
+O: 11853
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12658
+O: 11861
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12659
+O: 11869
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12660
+O: 11877
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12665
+O: 11882
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12673
+O: 11883
+Array 0: C
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12675
+O: 11892
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12683
+O: 11893
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12691
+O: 11894
+Array 0: A
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12694
+O: 11901
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12702
+O: 11902
+Array 0: B
+Array 1:  
+Array 2: X
+USER LOSES
+U: 12703
+O: 11910
+Array 0: B
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12712
+O: 11912
+Array 0: B
+Array 1:  
+Array 2: Y
+IT'S A DRAW
+U: 12717
+O: 11917
+Array 0: A
+Array 1:  
+Array 2: Z
+USER WINS
+U: 12725
+O: 11918
+SKIPPED!
+Total User Points: 12725
+Total Opponent Points: 11918
+A winner is YOU!
