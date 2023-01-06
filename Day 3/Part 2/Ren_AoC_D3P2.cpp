@@ -1,4 +1,4 @@
-//Advent of Code Day 3: Part 1
+//Advent of Code Day 3: Part 2
 //Renzo Pereyra
 
 #include<iostream>
@@ -7,9 +7,18 @@ using namespace std;
 
 int main()
 {
+	//Part 1 Goals (DONE):
 	//read from file
 	//compare 1st half with 2nd half of string
 	//if letter matches, then assign to array
+	//find ASCII value of each array letter
+	//add all values to find the total
+
+	//Part 2 Goals: 
+	//Elves divided into groups of 3 elves each
+	//Badge is the ONLY item type carried by all 3 elves in each group
+	//compare group's elf items (every 3 string lines) to find common char
+	//assign each elf badge (common char) to an array
 	//find ASCII value of each array letter
 	//add all values to find the total
 
@@ -23,7 +32,7 @@ int main()
 	{
 		string textString; //holds values from text
 
-		//prints + counts every line
+		//counts every line
 		while (!in.eof())
 		{
 			getline(in,textString);
@@ -33,7 +42,6 @@ int main()
 			}
 			else 
 			{
-				out << textString << endl;
 				lineCount++;
 			}
 		}
@@ -58,53 +66,63 @@ int main()
 			}
 			else
 			{
-				stringCount++;
-				//counts the amount of characters in the string
-				counter = textString.length();
-				out << "Total # in String #" << stringCount << ": " << counter << endl;
-
-				int halfStringCount = (counter / 2); //divides string's counter by half
-				out << "Divided By Half: " << halfStringCount << endl;
+				for (int z=0; z<3; z++)
+				{
 					
-				//assign arr1 w/ 1st half, arr2 w/ 2nd half of string
-				char arr1[counter]; //initialize 1st array to compare
-				char arr2[counter]; //initialize 2nd array to compare
-
-				out << "CURRENT STRING NUMBER: " << stringCount << endl;
-
-				for (int i=0; i<counter; i++)
-				{
-					if (i < halfStringCount)
-					{
-						arr1[i] = textString[i];
-						out << "#" << (i+1) << " Arr1: " << arr1[i] << endl;
-					}
-					else if (i >= halfStringCount)
-					{
-						arr2[(i-halfStringCount)] = textString[i]; //starts arr2's element at 0
-						out << "#" << (i+1) << " Arr2: " << arr2[(i-halfStringCount)] << endl;
-					}
 				}
-				
-				//compare both arrays for matching letters
-				for (int j=0; j<halfStringCount; j++)
 				{
-					out << "J: " << arr1[j] << endl;
+					
+					stringCount++;
 
-					for (int k=0; k<halfStringCount; k++)
+					//counts the amount of characters in the string
+					counter = textString.length();
+					out << "Total # in String #" << stringCount << ": " << counter << endl;
+
+					int halfStringCount = (counter / 2); //divides string's counter by half
+					out << "Divided By Half: " << halfStringCount << endl;
+					
+					
+					//assign arr1 w/ 1st half, arr2 w/ 2nd half of string
+					char arr1[counter]; //initialize 1st array to compare
+					char arr2[counter]; //initialize 2nd array to compare
+					char arr3[counter]; //initialize 3rd array to compare (NEW)
+
+					out << "CURRENT STRING NUMBER: " << stringCount << endl;
+
+					for (int i=0; i<counter; i++)
 					{
-						out << "K: " << arr2[k] << endl;
-
-						if (arr1[j] != arr2[k])
+						if (i < halfStringCount)
 						{
-							out << "not equal" << endl;
+							arr1[i] = textString[i];
+							out << "#" << (i+1) << " Arr1: " << arr1[i] << endl;
 						}
-						else 
+						else if (i >= halfStringCount)
 						{
-							out << "THEY ARE EQUAL!!!!" << endl;
-							out << arr1[j] << endl;
-							itemArr[(stringCount-1)] = arr1[j];
-							out << "SAVING ITEM: " << itemArr[(stringCount-1)] << endl;
+							arr2[(i-halfStringCount)] = textString[i]; //starts arr2's element at 0
+							out << "#" << (i+1) << " Arr2: " << arr2[(i-halfStringCount)] << endl;
+						}
+					}
+					
+					//compare both arrays for matching letters
+					for (int j=0; j<halfStringCount; j++)
+					{
+						out << "J: " << arr1[j] << endl;
+
+						for (int k=0; k<halfStringCount; k++)
+						{
+							out << "K: " << arr2[k] << endl;
+
+							if (arr1[j] != arr2[k])
+							{
+								out << "not equal" << endl;
+							}
+							else
+							{
+								out << "THEY ARE EQUAL!!!!" << endl;
+								out << arr1[j] << endl;
+								itemArr[(stringCount-1)] = arr1[j];
+								out << "SAVING ITEM: " << itemArr[(stringCount-1)] << endl;
+							}
 						}
 					}
 				}
