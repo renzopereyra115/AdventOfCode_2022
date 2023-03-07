@@ -65,103 +65,103 @@ int main()
 				in.close();
 			}
 			else
-			{
-				for (int z=0; z<3; z++)
+			{		
+				//assign arr1 w/ 1st half, arr2 w/ 2nd half of string
+				char arr1[counter]; //initialize 1st array to compare
+				char arr2[counter]; //initialize 2nd array to compare
+				char arr3[counter]; //initialize 3rd array to compare(NEW)
+
+				out << "CURRENT STRING NUMBER: " << stringCount << endl;
+
+				//print string
+				for (int i=0; i<3; i++)
 				{
-					
-				}
-				{
-					
-					stringCount++;
-
-					//counts the amount of characters in the string
-					counter = textString.length();
-					out << "Total # in String #" << stringCount << ": " << counter << endl;
-
-					int halfStringCount = (counter / 2); //divides string's counter by half
-					out << "Divided By Half: " << halfStringCount << endl;
-					
-					
-					//assign arr1 w/ 1st half, arr2 w/ 2nd half of string
-					char arr1[counter]; //initialize 1st array to compare
-					char arr2[counter]; //initialize 2nd array to compare
-					char arr3[counter]; //initialize 3rd array to compare (NEW)
-
-					out << "CURRENT STRING NUMBER: " << stringCount << endl;
-
-					for (int i=0; i<counter; i++)
+					if (i==0)
 					{
-						if (i < halfStringCount)
+						for (int x = 0; x < textString.length(); x++)
 						{
-							arr1[i] = textString[i];
-							out << "#" << (i+1) << " Arr1: " << arr1[i] << endl;
+							out << "#" << (i+1) << ": " << textString << endl;
+							arr1[x] = textString[x];
 						}
-						else if (i >= halfStringCount)
+							
+					}
+					else if (i==1)
+					{
+						for (int x = 0; x < textString.length(); x++)
 						{
-							arr2[(i-halfStringCount)] = textString[i]; //starts arr2's element at 0
-							out << "#" << (i+1) << " Arr2: " << arr2[(i-halfStringCount)] << endl;
+							out << "#" << (i+1) << ": " << stringCount << endl; 
+							arr2[x] = textString[x];
 						}
 					}
-					
-					//compare both arrays for matching letters
-					for (int j=0; j<halfStringCount; j++)
+					else if (i==2)
 					{
-						out << "J: " << arr1[j] << endl;
-
-						for (int k=0; k<halfStringCount; k++)
+						for (int x = 0; x < textString.length(); x++)
 						{
-							out << "K: " << arr2[k] << endl;
-
-							if (arr1[j] != arr2[k])
-							{
-								out << "not equal" << endl;
-							}
-							else
-							{
-								out << "THEY ARE EQUAL!!!!" << endl;
-								out << arr1[j] << endl;
-								itemArr[(stringCount-1)] = arr1[j];
-								out << "SAVING ITEM: " << itemArr[(stringCount-1)] << endl;
-							}
+							out << "#" << (i+1) << ": " << stringCount << endl;
+							arr3[x] = textString[x];
 						}
 					}
 				}
-				out << "DONE!" << endl;
+					
+				//compare both arrays for matching letters
+				for (int j=0; j<halfStringCount; j++)
+				{
+					out << "J: " << arr1[j] << endl;
+
+					for (int k=0; k<halfStringCount; k++)
+					{
+						out << "K: " << arr2[k] << endl;
+
+						if (arr1[j] != arr2[k])
+						{
+							out << "not equal" << endl;
+						}
+						else
+						{
+							out << "THEY ARE EQUAL!!!!" << endl;
+							out << arr1[j] << endl;
+							itemArr[(stringCount-1)] = arr1[j];
+							out << "SAVING ITEM: " << itemArr[(stringCount-1)] << endl;
+						}
+					}
+				}
 			}
+			out << "DONE!" << endl;
 		}
-		//each letter has a "priority" value, the following adds all unique chars in array
-		int val = 0;
-		counter = 0;
-
-		out << "Printing all unique rucksack items!" << endl;
-		for (int x=0; x < lineCount; x++)
-		{
-			//print all unique rucksack items
-			out << itemArr[x] << endl;
-			val = itemArr[x];
-
-			out << "THIS IS VAL: " << val << endl;
-			//convert to a-z value (1-26)
-
-			if (val >= 97 && val <= 122) //holds all lowercase ASCII character values
-			{
-				val = val - 96; //"a" will start at 1, "z" will end at 26 (per puzzle's request)
-				out << "THIS IS VAL NUMBER: " << val << endl;
-				counter += val;
-			}
-			else if (val >= 65 && val <= 90) //holds all uppercase ASCII character values
-			{
-				val = val - 38; //"A" will start at 27, "Z" will end at 52 (per puzzle's request)
-				out << "THIS IS VAL NUMBER: " << val << endl;
-				counter += val;
-			}
-			else 
-			{
-				out << "ERROR! PLEASE FIX!" << endl;
-			}
-		}
-		out << "Total Value of Unique Items: " << counter << endl;
 	}
-	out << "Reached end of file!" << endl;
-	return 0;
+	//each letter has a "priority" value, the following adds all unique chars in array
+	int val = 0;
+	counter = 0;
+
+	out << "Printing all unique rucksack items!" << endl;
+	for (int x=0; x < lineCount; x++)
+	{
+		//print all unique rucksack items
+		out << itemArr[x] << endl;
+		val = itemArr[x];
+
+		out << "THIS IS VAL: " << val << endl;
+		//convert to a-z value (1-26)
+
+		if (val >= 97 && val <= 122) //holds all lowercase ASCII character values
+		{
+			val = val - 96; //"a" will start at 1, "z" will end at 26 (per puzzle's request)
+			out << "THIS IS VAL NUMBER: " << val << endl;
+			counter += val;
+		}
+		else if (val >= 65 && val <= 90) //holds all uppercase ASCII character values
+		{
+			val = val - 38; //"A" will start at 27, "Z" will end at 52 (per puzzle's request)
+			out << "THIS IS VAL NUMBER: " << val << endl;
+			counter += val;
+		}
+		else 
+		{
+			out << "ERROR! PLEASE FIX!" << endl;
+		}
+	}
+	out << "Total Value of Unique Items: " << counter << endl;
+}
+out << "Reached end of file!" << endl;
+return 0;
 }
